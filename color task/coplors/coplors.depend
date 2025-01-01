@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1683560781 source:c:\users\bero\desktop\embbbb\color task\new folder\colors.c
+
+1683802801 source:c:\users\bero\desktop\embbbb\color task\coplors\main.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+	"colors.h"
+
+1683560781 source:c:\users\bero\desktop\embbbb\color task\coplors\colors.c
+
+1683560781 c:\users\bero\desktop\embbbb\color task\coplors\colors.c
+
+1683560781 c:\users\bero\desktop\embbbb\color task\coplors\colors.h
+
+1683644118 source:c:\users\bero\desktop\embbbb\list\list.c
+	"list.h"
+
+1683644118 c:\users\bero\desktop\embbbb\list\list.h
+
+1683644624 c:\users\bero\desktop\embbbb\color task\coplors\list.h
+
+1683644822 source:c:\users\bero\desktop\embbbb\color task\coplors\list.c
+	"list.h"
+

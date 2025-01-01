@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674856255 source:c:\users\bero\desktop\embbbb\grading\grading\main.c
+	<stdio.h>
+	<stdlib.h>
+

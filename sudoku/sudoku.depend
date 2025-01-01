@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1682039801 source:c:\users\bero\desktop\embbbb\sudoku\checking.c
+	<stdio.h>
+	<stdlib.h>
+
+1682698947 source:c:\users\bero\desktop\embbbb\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1682698787 source:c:\users\bero\desktop\embbbb\sudoku\printing.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+

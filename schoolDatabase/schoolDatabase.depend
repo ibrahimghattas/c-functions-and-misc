@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1683390231 source:c:\users\bero\desktop\embbbb\schooldatabase\main.c
+	<stdio.h>
+	<stdlib.h>
+	"students.h"
+
+1683386784 source:c:\users\bero\desktop\embbbb\schooldatabase\person.c
+	"person.h"
+
+1683387229 c:\users\bero\desktop\embbbb\schooldatabase\person.h
+
+1683390154 source:c:\users\bero\desktop\embbbb\schooldatabase\students.c
+	"students.h"
+	<stdio.h>
+
+1683390132 c:\users\bero\desktop\embbbb\schooldatabase\students.h
+	"person.h"
+
+1683388225 source:c:\users\bero\desktop\embbbb\schooldatabase\strings.c
+	"strings.h"
+	<stdio.h>
+
+1683388206 c:\users\bero\desktop\embbbb\schooldatabase\strings.h
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674852559 source:d:\amiut\test\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
